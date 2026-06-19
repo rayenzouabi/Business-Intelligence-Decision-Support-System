@@ -1,5 +1,5 @@
 # Business-Intelligence-Decision-Support-System
-📊 Business Intelligence Project @Albuhaira Invest
+📊 Business Intelligence Project @Albuhaira Invest ( The source code is private )
 During my engineering experience at Albuhaira Invest, I had the opportunity to design and develop a complete Business Intelligence solution to support internal management and decision-making.
 🔍 Project Overview
 The goal of this project was to transform complex and fragmented operational data into clear, actionable insights. I worked on structuring and centralizing data into a dedicated data warehouse, ensuring data quality, consistency, and performance.
